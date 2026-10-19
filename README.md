@@ -20,3 +20,8 @@ Tools Used
 Power BI Desktop: Used to create the visual charts, dashboard layout, and overall report design.
 
 Power Query: Used to clean and organize the raw data before building the charts.
+<img width="966" height="537" alt="image" src="https://github.com/user-attachments/assets/d3a35f5b-f43c-4d29-8206-661ddd7eac9c" />
+
+Bong if u don't want to download to view the file u can click this link "https://github.com/user-attachments/assets/d3a35f5b-f43c-4d29-8206-661ddd7eac9c" 
+because the file is too big since it has datasheet and data model in it.
+
