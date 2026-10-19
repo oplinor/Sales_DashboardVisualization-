@@ -20,8 +20,3 @@ Tools Used
 Power BI Desktop: Used to create the visual charts, dashboard layout, and overall report design.
 
 Power Query: Used to clean and organize the raw data before building the charts.
-
-Files Included
-sales_dashboard.pbix — The main dashboard file containing the report design and calculations.
-
-dashboard_preview.png — An image preview showing what the completed dashboard looks like.
